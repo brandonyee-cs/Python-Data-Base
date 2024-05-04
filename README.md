@@ -1,7 +1,7 @@
 # Python-Data-Base
 <small>Built by Brandon Yee</small>
 
-Miniature Redis Build with Python. This is my first project using Gevent in Python. 
+Miniature Redis Build with Python using tutorial: ["Write your own miniature Redis with Python"](https://charlesleifer.com/blog/building-a-simple-redis-server-with-python/). This is my first project using Gevent in Python. 
 This project is a simple Redis-like database server written in Python. The server is designed to be easy to understand and implement, and it supports basic data types like strings, numbers, dictionaries, and arrays.
 
 # Goals
